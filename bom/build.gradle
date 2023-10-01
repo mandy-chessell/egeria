@@ -88,7 +88,7 @@ ext {
     jakartaServletVersion = '6.0.0'
     sleepycatVersion = '18.3.12'
     snakeyamlVersion = '2.0'
-    slf4jVersion = '2.0.6'
+    slf4jVersion = '2.0.9'
     snappyVersion = '1.1.10.2'
     springbootVersion = '3.1.1'
     spotbugsVersion = '4.7.3'
