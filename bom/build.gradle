@@ -82,7 +82,7 @@ ext {
     postgresVersion = '42.7.3'
     nettyVersion = '4.1.111.Final'
     prometheusVersion = '1.13.1'
-    quartzVersion = '2.3.2'
+    quartzVersion = '2.5.0'
     // TODO: May be able to remove as moving to jakarta servlet
     servletVersion = '4.0.1'
     jakartaServletVersion = '6.0.0'
