@@ -43,7 +43,7 @@ ext {
     logbackVersion = '1.6.3'
     lettuceVersion = '7.7.0.RELEASE'
     openlineageVersion = '1.52.0'
-    postgresVersion = '42.7.13' // already there
+    postgresVersion = '42.7.14' // already there
     nettyVersion = '4.2.17.Final'
     prometheusVersion = '1.17.1'
     jakartaServletVersion = '6.1.0'
